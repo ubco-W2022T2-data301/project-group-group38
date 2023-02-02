@@ -7,7 +7,7 @@ The source of our dataset was provided by the professor's resource. Specifically
 **Provide a link to your dataset**
 http://insideairbnb.com/hawaii
 
-**License:**
+**License**
 what is the license of your dataset? CC0, MIT, etc…
 Creative Commons Attribution 4.0 International License
 
