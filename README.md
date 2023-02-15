@@ -11,8 +11,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 Drake will do this
 
 ## Describe your dataset in about 150-200 words
-
-{Add your stuff here}
+Our dataset is comprised of three files that have information on Airbnb reviews, scheduling, and listing data. Each of the files provided has detailed info regarding why people choose to stay where they stay, when they stay, and what amenities they prefer. This data can provide insight to the mind of the Hawaii'n tourist. The dataset has a combination of numbers and words, and will require some manual analysis to decipher what some of the reasons are for people saying what they say. It is quite extensive, with millions of data points to comb through. The data extends back to as far as 2005-2010, which will be data we use less than more timely, relevant data. There will also be key words we look for to find correlations and hidden trends that may be unbeknownst to the naked eye.
 
 ## Team Members
 
