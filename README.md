@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Drake will do this
 
 ## Describe your dataset in about 150-200 words
 
