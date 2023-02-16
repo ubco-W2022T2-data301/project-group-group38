@@ -1,6 +1,6 @@
 # Group 38 - 
 
-- Your title can change over time.
+Aloha Guides
 
 ## Milestones
 
@@ -15,7 +15,7 @@ Our dataset is comprised of three files that have information on Airbnb reviews,
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Person 1 - Anton Cizmok - I am a traveller and I would like to own investment property in Hawaii, Hawaii!
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
