@@ -1,4 +1,4 @@
-# Group 38 - 
+# Group 38 - Airbnb Optimal Algorithm for Hawaiian Rental Properties
 
 Aloha Guides
 
@@ -16,17 +16,15 @@ Our dataset is comprised of three files that have information on Airbnb reviews,
 
 - Person 1 - Anton Cizmok - I am a traveller and I would like to own investment property in Hawaii, Hawaii!
 - Person 2: Drake Snitynsky - I am manager in a retail sales environment but would like to expand my strenghts into property management.
-- Person 3: one sentence about you!
+- Person 3: Coleton Bilodeau - 
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/test.png" width="100px">
+<img width="1676" alt="Screenshot 2023-03-03 at 4 16 54 PM" src="https://user-images.githubusercontent.com/122840406/222858507-0ec1af80-425c-4903-9d08-a75fbd64a8b7.png">
 
 ## References
 
-{Add your stuff here}
+Cox, M. (2022, December 15). Inside Airbnb: Get the Data - Hawaii, United States. Inside Airbnb. Retrieved March 3, 2023, from http://insideairbnb.com/hawaii 
 
 
 
