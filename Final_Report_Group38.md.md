@@ -20,7 +20,7 @@ Here are the visualizations I created to demonstrate the average prices of both 
 Once I had analyzed the price information, I needed a measure of the quality of stay and I discovered that the dataset included information about the reviews of each listing. I decided that using these review scores would be an effective way to uncover the value of each listing type and came up with average review scores.
 
 Here are my figures outlining the average review scores for each island and room type:
-![Alt text](/Users/anton/desktop/DATA301/project/project-group-group38/images/CPic1.png)
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/CPic1.png)
 
 Rather interestingly, the review score data was very similar and suggested to me that most visitors enjoyed their stay regardless of the room type or island, and that perhaps price is the most important factor.
 
