@@ -9,18 +9,19 @@ Our project focused on the Airbnb listings for the state of Hawaii from this dat
 **Question 1:** **Which Island provides the most value based on price and quality of stay?**
 
 To begin my analysis, I needed to find out what the different types of listings were on this dataset so that I could come up with average prices that reflected the type of room that was being listed. I quickly realized that while there are 4 room types in the dataset, two of them (Private rooms and Entire homes and apartments) make up most of the listings.
-
-
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/CPic1.png)
 
 Once I realized this, it became clear that focusing my analysis on these two room types would be most efficient and provide enough information to answer my research question. I also concluded that any data regarding price or quality of stay should be split by these room types to get an accurate picture of the value of each listing type.
 
 Here are the visualizations I created to demonstrate the average prices of both room types on each island:
-
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/CPic2png.png)
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/CPic3.png)
 
 Once I had analyzed the price information, I needed a measure of the quality of stay and I discovered that the dataset included information about the reviews of each listing. I decided that using these review scores would be an effective way to uncover the value of each listing type and came up with average review scores.
 
 Here are my figures outlining the average review scores for each island and room type:
-![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/CPic1.png)
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/CPic4.png)
+I[Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/CPic5.png)
 
 Rather interestingly, the review score data was very similar and suggested to me that most visitors enjoyed their stay regardless of the room type or island, and that perhaps price is the most important factor.
 
@@ -91,26 +92,29 @@ Entire Home/Apt: Honolulu
 
 I wanted to see what conclusions I could derive from review score, bedroom, and price data.
 
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/APic1.png)
 Firstly, I made a heatmap of average review score per island. It is important to note that they are all very high scores, but the smallest of differences could be the most meaningful impacts for a traveller looking for the optimal experience.
 
-
-
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/APic2.png)
 Then, I did average review score by room type using this scatter plot. Entire homes were much more commonly listed, as you can tell from analysis done in Question 1, which may have skewed the data for having higher average review scores.
-
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/APic3.png)
 Between the islands, it seems as though Maui gets the most amount of high reviews. 
 
 Now that we have an understanding between for review scores, I will move on to price and bedroom correlations.
+
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/APic4.png)
 
 It can be drawn from this chart that there is a steady increase in price, as one would expect, from an increasing number of bedrooms. It is interesting to note that a 8 bedroom rental property is where one would get significantly more value than a 10 bedroom place. It is also interesting to note that there is a significant price hike when going up to 9 bedrooms from 8 bedrooms, in more than **double** the price.
 
 For travellers in big groups, noting this difference could prove beneficial.
 
 How many places are there by each bedroom count?
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/APic5.png)
 
 As noted above, 8-bedroom listings are where travellers could get the most value. However, it is unfortunate that they are only available for basically half of the year, and there is so few of them. If travellers are looking to travel in big groups, they must be on the hunt for these few 8-bedroom deals that could be available!
 
 However, they will have to settle with something less than a 5.0 review. As noted above, there are only 4 listings that have 5.0 reviews. Thus, it is not reasonable to expect to get the best of the best having 8 bedrooms.
-
+![Alt text](https://github.com/ubco-W2022T2-data301/project-group-group38/blob/main/images/APic6.png)
 
 
 **Findings**
