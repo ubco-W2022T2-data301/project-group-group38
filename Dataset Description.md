@@ -32,6 +32,3 @@ I am interested in understanding what the most common factors are that create po
 
 Similar to Coleton, I am interested in Hawaii as a vacation destination and plan on being a frequent traveler to the island. I am interested in what makes a good Airbnb versus a bad one, and to be able to create a dataset that can help me point my vacation planning in the right direction. A bunch of people I know also love to travel to Hawaii, so having an Airbnb guide on the best places to stay in the best locations and for the right reasons would be awesome to have as a tool in the future.
 
-**Person 3: Drake Snitynsky**
-
-When I go on holiday I prefer the 'authentic' experience of the destination. Staying in a hotel with other guests just isn't the same as living in a private house with household amenities. I want to explore the Airbnb data from Hawaii to determine where tourists should book their stay based on location, price and amenities. My goal is to find the optimal location on the big island based on the tourists' preferences.
