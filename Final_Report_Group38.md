@@ -138,6 +138,46 @@ However, they will have to settle with something less than a 5.0 review. As note
 
 **Which islands have the best location scores?** - It was found that although only minor changes, "The Big Island" Hawaii, Hawaii had the best average review scores. For travellers looking for the ultimate location experience, The Big Island is where you want to go, offering the highest quality Airbnb's to stay at.
 
+**Question 3: When traveling to Hawaii what time of the year is most cost effective comparing hotel rooms and Airbnb rentals**
+
+When deciding between staying at a hotel or booking a private Airbnb in Hawaii, there are several factors to consider. A traveller should consider the following information to make an informed decision based on preferences. To Begin my analysis I had to compare the provided dataset with average hotel rates based on similar attributes to the listings and time of year.
+
+**Cost:** Generally, Airbnb tends to be more cost-effective compared to hotels. However, it may depend on the season, and amenities offered.
+
+<img width="1148" alt="Screenshot 2023-04-19 at 8 17 27 AM" src="https://user-images.githubusercontent.com/122840406/233131007-510c60f3-7cbd-4dde-ba58-639536863ff1.png">
+
+Based on the above analysis I found that on average is it 10% less for a vacation rental compared to a hotel in Hawaii. The optimal month is to travel is September because no matter your preference the hotel and Airbnb rates are almost the same. The most expensive month for a hotel room is July and the most expensive month for an Airbnb is December. These results make sense because the majority are going back to school or work in September and mid-summer and winter break everyone wants to travel.
+
+**$227 is the average hotel room cost in Hawaii in a 12 month period.**
+
+After formulating the above bar graph I realized that hotel rates per night do not include resort fees or parking costs. These are minimal but could add up to over $50 per day. The cost varies depending on where you stay so I have furthered my research to provided a more accurate cost breakdown. I have broken down my data into subcategories; luxury, upper upscale class, upscale class, upper midscale class and midscale/economy class.
+
+<img width="1581" alt="Dpic2" src="https://user-images.githubusercontent.com/122840406/233131154-34e7e49b-0d6e-47de-9121-75b7e6749eac.png">
+**Bottom Line:** Plan to add $40 – $70 to the cost of your hotel room each night to cover resort fees and parking.
+
+Adding an average of $55 extra per day in fees puts the average hotel cost at **$282** in a 12 month period.
+
+The Hawaii tourist board provides some information, but they don't do a very good job of tracking the prices of vacation rentals. Here is the data I could gather.
+
+<img width="1055" alt="DPic3" src="https://user-images.githubusercontent.com/122840406/233132153-f2654bf5-d516-44f3-90d5-9a354774d979.png">
+
+**$205 is the average Airbnb cost in a 12 month period.**
+
+After factoring the added costs of staying at a hotel the the average vacation rental in Hawaii is 28% less compared to a hotels. 
+
+The primary source of cost savings when opting for a vacation rental in Hawaii is as follows:
+
+* The time of year
+* Exemption from resort fees (and possibly parking fees)
+* The ability to cook meals at home and avoid expensive dining out
+* Availability of vacation rentals with multiple bedrooms, which is more economical than booking multiple hotel rooms.
+
+**Is the time of year for vacation rentals truly more cost-effective than staying at hotels in Hawaii?**
+
+**Answer:** In summary, if you are a solo traveler or a couple who prefers dining out during vacation, selecting a mid-range vacation rental over a mid-range hotel may not result in significant cost savings. However, for families who plan to prepare some meals at the vacation rental, renting a vacation home can be a much more economical option, providing substantial savings.
+
+Ultimately, it depends on your preferences and priorities. If you prefer a more home-like experience and privacy, an Airbnb might be the way to go. On the other hand, if you value the convenience of a hotel's amenities and services, a hotel might be a better option.
+
 **Conclusion**
 
 In conclusion, there were a lot of interesting data points drawn from this dataset that could provide of significant use for travellers. Which islands, how many bedrooms, quality of airbnbs, location/review scores, price, etc... all provide useful information for finding the best deals and best bargains for travelling to such a beautiful place. It was a lot of fun working with this dataset throughout the term!
