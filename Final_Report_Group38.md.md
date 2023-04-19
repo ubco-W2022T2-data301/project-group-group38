@@ -148,23 +148,23 @@ When deciding between staying at a hotel or booking a private Airbnb in Hawaii, 
 
 Based on the above analysis I found that on average is it 10% less for a vacation rental compared to a hotel in Hawaii. 
 
-**$205 is the average hotel room cost in Hawaii.**
+**$227 is the average hotel room cost in Hawaii.**
 
 After formulating the above bar graph I realized that hotel rates per night do not include resort fees or parking costs. These are minimal but could add up to over $50 per day. The cost varies depending on where you stay so I have furthered my research to provided a more accurate cost breakdown. I have broken down my data into subcategories; luxury, upper upscale class, upscale class, upper midscale class and midscale/economy class.
 
-<img width="1568" alt="Screenshot 2023-04-19 at 12 16 58 AM" src="https://user-images.githubusercontent.com/122840406/233005574-7d8643f1-c1b6-4492-bedb-04f2fbe5aff6.png">
+<img width="1581" alt="Screenshot 2023-04-19 at 1 07 44 AM" src="https://user-images.githubusercontent.com/122840406/233010609-8bcc0481-e9fa-47f3-b96f-249d5b761477.png">
 
 **Bottom Line:** Plan to add $40 – $70 to the cost of your hotel room each night to cover resort fees and parking.
 
-Adding an average of $55 extra per day in fees puts the average hotel cost at **$260.**
+Adding an average of $55 extra per day in fees puts the average hotel cost at **$282.**
 
 The Hawaii tourist board provides some information, but they don't do a very good job of tracking the prices of vacation rentals. Here is the data I could gather.
 
-**$180 is the average daily rate of a vacation rental in Hawaii.**
+**$205 is the average daily rate of a vacation rental in Hawaii.**
 
-<img width="979" alt="Screenshot 2023-04-19 at 12 37 02 AM" src="https://user-images.githubusercontent.com/122840406/233005891-c6f45b8c-905e-4850-8cd4-54c44b9c16ad.png">
+<img width="1194" alt="Screenshot 2023-04-19 at 1 13 53 AM" src="https://user-images.githubusercontent.com/122840406/233012229-8236fa9a-d49d-4ba3-b20e-95222d49c5d3.png">
 
-After factoring the added costs of staying a hotel the the average vacation rental in Hawaii is 40% less compared to a hotels. 
+After factoring the added costs of staying a hotel the the average vacation rental in Hawaii is 28% less compared to a hotels. 
 
 The primary source of cost savings when opting for a vacation rental in Hawaii is as follows:
 
