@@ -15,7 +15,8 @@ Our dataset is comprised of three files that have information on Airbnb reviews,
 ## Team Members
 
 - Person 1 - Anton Cizmok - I am a traveller and I would like to own investment property in Hawaii, Hawaii!
-- Person 3: Coleton Bilodeau - 
+- Person 2 - Drake Snitynsky - I am a business management student that would like to understand the fundementals behind Airbnb.
+- Person 3: Coleton Bilodeau - I am a traveller that wants the best value and experience on a vacation.
 
 ## Images
 
