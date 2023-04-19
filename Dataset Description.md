@@ -34,4 +34,4 @@ Similar to Coleton, I am interested in Hawaii as a vacation destination and plan
 
 **Person 3: Drake Snitynsky**
 
-My research will assess if when traveling to Hawaii is it better value to stay at a hotel or book a private Airbnb? When my family goes for a vacation we have always stayed at a hotel resort. When we decide to go on our next holiday I am curious to try the Airbnb experience. I've noticed the uphill trend in booking a private vacation getaway rather than the typical hotel. I am going to compare costs per night to see which is better value.
+My research will assess when is the optimal time to travel to Hawaii and should you stay at an Airbnb or Hotel. When my family goes for a vacation we have always stayed at a hotel resort usually during March spring break. When we decide to go on our next holiday I am curious to try the Airbnb experience. I've noticed the uphill trend in booking a private vacation getaway rather than the typical hotel. I am going to conduct reseach to determine the optimal time to travel and compare costs per night at a hotel and Airbnb to see which is better value.
