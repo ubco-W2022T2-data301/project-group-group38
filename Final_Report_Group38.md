@@ -138,6 +138,3 @@ However, they will have to settle with something less than a 5.0 review. As note
 
 **Which islands have the best location scores?** - It was found that although only minor changes, "The Big Island" Hawaii, Hawaii had the best average review scores. For travellers looking for the ultimate location experience, The Big Island is where you want to go, offering the highest quality Airbnb's to stay at.
 
-**Conclusion**
-
-In conclusion, there were a lot of interesting data points drawn from this dataset that could provide of significant use for travellers. Which islands, how many bedrooms, quality of airbnbs, location/review scores, price, etc... all provide useful information for finding the best deals and best bargains for travelling to such a beautiful place. It was a lot of fun working with this dataset throughout the term!
