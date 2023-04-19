@@ -138,6 +138,46 @@ However, they will have to settle with something less than a 5.0 review. As note
 
 **Which islands have the best location scores?** - It was found that although only minor changes, "The Big Island" Hawaii, Hawaii had the best average review scores. For travellers looking for the ultimate location experience, The Big Island is where you want to go, offering the highest quality Airbnb's to stay at.
 
+**Question 3: When traveling to Hawaii is it better value to stay at a hotel or book a private Airbnb?**
+
+When deciding between staying at a hotel or booking a private Airbnb in Hawaii, there are several factors to consider. A traveller should consider the following information to make an informed decision based on preferences. To Begin  my analysis I had to compare the provided dataset with average hotel rates based on similar attributes to the listings.
+
+**Cost:** Generally, Airbnb tends to be more cost-effective compared to hotels. However, it may depend on the location, season, and amenities offered.
+
+<img width="982" alt="Screenshot 2023-04-18 at 11 48 16 PM" src="https://user-images.githubusercontent.com/122840406/233005495-daae149c-a221-415e-ac31-9c9c913a3a44.png">
+
+Based on the above analysis I found that on average is it 10% less for a vacation rental compared to a hotel in Hawaii. 
+
+**$205 is the average hotel room cost in Hawaii.**
+
+After formulating the above bar graph I realized that hotel rates per night do not include resort fees or parking costs. These are minimal but could add up to over $50 per day. The cost varies depending on where you stay so I have furthered my research to provided a more accurate cost breakdown. I have broken down my data into subcategories; luxury, upper upscale class, upscale class, upper midscale class and midscale/economy class.
+
+<img width="1568" alt="Screenshot 2023-04-19 at 12 16 58 AM" src="https://user-images.githubusercontent.com/122840406/233005574-7d8643f1-c1b6-4492-bedb-04f2fbe5aff6.png">
+
+**Bottom Line:** Plan to add $40 – $70 to the cost of your hotel room each night to cover resort fees and parking.
+
+Adding an average of $55 extra per day in fees puts the average hotel cost at **$260.**
+
+The Hawaii tourist board provides some information, but they don't do a very good job of tracking the prices of vacation rentals. Here is the data I could gather.
+
+**$180 is the average daily rate of a vacation rental in Hawaii.**
+
+<img width="979" alt="Screenshot 2023-04-19 at 12 37 02 AM" src="https://user-images.githubusercontent.com/122840406/233005891-c6f45b8c-905e-4850-8cd4-54c44b9c16ad.png">
+
+After factoring the added costs of staying a hotel the the average vacation rental in Hawaii is 40% less compared to a hotels. 
+
+The primary source of cost savings when opting for a vacation rental in Hawaii is as follows:
+
+* Exemption from resort fees (and possibly parking fees)
+* The ability to cook meals at home and avoid expensive dining out
+* Availability of vacation rentals with multiple bedrooms, which is more economical than booking multiple hotel rooms.
+
+**Is opting for vacation rentals truly more cost-effective than staying at hotels in Hawaii?**
+
+**Answer:** In summary, if you are a solo traveler or a couple who prefers dining out during vacation, selecting a mid-range vacation rental over a mid-range hotel may not result in significant cost savings. However, for families who plan to prepare some meals at the vacation rental, renting a vacation home can be a much more economical option, providing substantial savings.
+
+Ultimately, it depends on your preferences and priorities. If you prefer a more home-like experience and privacy, an Airbnb might be the way to go. On the other hand, if you value the convenience of a hotel's amenities and services, a hotel might be a better option.
+
 **Conclusion**
 
 In conclusion, there were a lot of interesting data points drawn from this dataset that could provide of significant use for travellers. Which islands, how many bedrooms, quality of airbnbs, location/review scores, price, etc... all provide useful information for finding the best deals and best bargains for travelling to such a beautiful place. It was a lot of fun working with this dataset throughout the term!
